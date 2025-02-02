@@ -1,0 +1,651 @@
+{
+  "items": "16",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Can Shanghai absorb 84,000 homes this year as sales slow, prices rise?",
+      "url": "https://www.scmp.com/business/banking-finance/article/3296325/can-shanghai-absorb-84000-homes-year-amid-slowing-sales-rising-prices",
+      "time_published": "20250126T072956",
+      "authors": [
+        "Daniel Ren"
+      ],
+      "summary": "Some 30,000 flats from 270 projects are due to be launched this year, while developers are sitting on an inventory of 54,000 units.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/26/bf8a6391-2f8d-46b3-9c87-36d27bce6215_6c29d5bd.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.019247,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "III",
+          "relevance_score": "0.062926",
+          "ticker_sentiment_score": "-0.151455",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "it.com Domains Partners with Dynadot to Build Effective Digital Identities for the IT Sector",
+      "url": "https://www.benzinga.com/pressreleases/25/01/n43217682/it-com-domains-partners-with-dynadot-to-build-effective-digital-identities-for-the-it-sector",
+      "time_published": "20250126T070000",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "LONDON, Jan. 26, 2025 /PRNewswire/ -- A provider of innovative domain solutions, it.com Domains, is announcing a strategic partnership with Dynadot, a leading domain registrar known for its affordability, advanced tools, and customer-centric services.",
+      "banner_image": "https://mma.prnewswire.com/media/2605794/it_com_Logo.jpg",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.521359,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": []
+    },
+    {
+      "title": "The CCTV4 \"Festival of Spring 2025\" Gala",
+      "url": "https://www.benzinga.com/pressreleases/25/01/n43217541/the-cctv4-festival-of-spring-2025-gala",
+      "time_published": "20250126T031700",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "BEIJING, Jan. 25, 2025 /PRNewswire/ -- Spring Festival this year will be the first since the traditional celebrations were listed as part of the Intangible Cultural Heritage of Humanity.",
+      "banner_image": "https://mma.prnewswire.com/media/2606123/poster_of_The_CCTV4__Festival_of_Spring_2025__Gala_The_CCTV4__Festival_of_Spring_2025__Gala.jpg",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [],
+      "overall_sentiment_score": 0.44367,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHND",
+          "relevance_score": "0.145145",
+          "ticker_sentiment_score": "0.153293",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SenseTime to spin off healthcare platform to capitalise on advanced LLMs",
+      "url": "https://www.scmp.com/business/companies/article/3296080/sensetime-plans-spin-healthcare-platform-effort-capitalise-advanced-llms",
+      "time_published": "20250126T024508",
+      "authors": [
+        "Peggy Sito"
+      ],
+      "summary": "SenseTime says rapid advancements in large language models are transforming artificial intelligence in the medical field.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/24/a49fa7aa-3568-42a0-9fb9-709aa3aded2b_667a931c.jpg?itok=u8Klwl-z&v=1737693157",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.77141"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.317534,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SNTMF",
+          "relevance_score": "0.269033",
+          "ticker_sentiment_score": "0.368394",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Let 100 Silicon Valleys bloom: China's start-up 'godfather' is planning next DJI",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3296192/chinas-tech-start-boom-sets-sights-building-multiple-silicon-valleys",
+      "time_published": "20250126T020012",
+      "authors": [
+        "Iris Deng"
+      ],
+      "summary": "Li Zexiang, who nurtured drone maker DJI, sees his incubator as providing the seeds for a flourishing innovation environment in China.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/24/18a20452-cb13-40a3-9c33-159940b2b762_1126e908.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        }
+      ],
+      "overall_sentiment_score": 0.187615,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPQ",
+          "relevance_score": "0.041828",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SZIHF",
+          "relevance_score": "0.125025",
+          "ticker_sentiment_score": "0.05393",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Thai properties at risk as Chinese buyers spooked by safety, security woes",
+      "url": "https://www.scmp.com/business/article/3296218/thai-properties-risk-chinese-buyers-go-cold-amid-abduction-trafficking-news",
+      "time_published": "20250126T013016",
+      "authors": [
+        "Cheryl Arcibal"
+      ],
+      "summary": "Chinese buyers have been the most active buyers of Thai properties among foreign investors, according to industry data.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/01/14/op.00_02_19_08.Still003.jpg?itok=TRHiyhL6",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.118276,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FOREX:THB",
+          "relevance_score": "0.1568",
+          "ticker_sentiment_score": "0.067056",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Bank of America a Millionaire Maker?",
+      "url": "https://www.fool.com/investing/2025/01/25/is-bank-of-america-a-millionaire-maker/",
+      "time_published": "20250125T235000",
+      "authors": [
+        "Justin Pope"
+      ],
+      "summary": "America's second-largest bank and Warren Buffett's third-largest holding seems like a no-brainer.",
+      "banner_image": "https://media.ycharts.com/charts/af875a358bac65cd8e91ac4b35cfd587.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999864"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.055636,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.76888",
+          "ticker_sentiment_score": "0.04021",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.050254",
+          "ticker_sentiment_score": "0.087346",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Archer Aviation Stock: A Millionaire Maker in the Making?",
+      "url": "https://www.fool.com/investing/2025/01/25/archer-aviation-stock-a-millionaire-maker-in-the-m/",
+      "time_published": "20250125T234100",
+      "authors": [
+        "James Brumley"
+      ],
+      "summary": "The idea is so unusual that it's almost unbelievable. But so were online shopping, mobile phones, and surgical robots...all of which commercially exist today.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/804775/rich-millionaire-billionaire-raining-money.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        }
+      ],
+      "overall_sentiment_score": 0.155377,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JPNRF",
+          "relevance_score": "0.042122",
+          "ticker_sentiment_score": "0.126255",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LUV",
+          "relevance_score": "0.042122",
+          "ticker_sentiment_score": "0.126255",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ACHR",
+          "relevance_score": "0.208285",
+          "ticker_sentiment_score": "0.13592",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "4 Soaring Stocks I'd Buy Now With No Hesitation",
+      "url": "https://www.fool.com/investing/2025/01/25/4-soaring-stocks-id-buy-now-with-no-hesitation/",
+      "time_published": "20250125T234100",
+      "authors": [
+        "Geoffrey Seiler"
+      ],
+      "summary": "While technology stocks get a lot of attention from the media, there are a lot of attractive options in the consumer goods space as well. Here are four stocks in that sector that I'd buy without any hesitation.While often classified as a consumer goods stock, Amazon ( NASDAQ: AMZN ) is really a ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F804712%2Fpackage-delivery-amazon-ups-fedex1.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999365"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.744043"
+        }
+      ],
+      "overall_sentiment_score": 0.384783,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAT",
+          "relevance_score": "0.044551",
+          "ticker_sentiment_score": "0.075488",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MO",
+          "relevance_score": "0.044551",
+          "ticker_sentiment_score": "0.103174",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JAKK",
+          "relevance_score": "0.1331",
+          "ticker_sentiment_score": "0.138899",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PM",
+          "relevance_score": "0.262522",
+          "ticker_sentiment_score": "0.340582",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.176825",
+          "ticker_sentiment_score": "0.192304",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Apple Receives Rare Underperform Rating from Wall Street Analyst. Is It Time to Sell the Stock?",
+      "url": "https://www.fool.com/investing/2025/01/25/apple-receives-rare-underperform-rating-from-wall/",
+      "time_published": "20250125T233200",
+      "authors": [
+        "Geoffrey Seiler"
+      ],
+      "summary": "In a rare move, analysts at Jefferies downgraded one of the largest companies in the world, Apple ( NASDAQ: AAPL ) , to underperform. Wall Street analysts are known for being bullish, so underperform and sell ratings tend to make up only a small percentage of overall analyst ratings.For its part, ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F804735%2Fgettyimages-1158779061.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        }
+      ],
+      "overall_sentiment_score": 0.124178,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.049424",
+          "ticker_sentiment_score": "0.06699",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.707988",
+          "ticker_sentiment_score": "0.168119",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "'What Harm Is Done If They Leave?' - Microsoft's Secret Document Reveals AI Retention Strategies",
+      "url": "https://www.benzinga.com/news/25/01/43217304/what-harm-is-done-if-they-leave-microsofts-secret-document-reveals-ai-retention-strategies",
+      "time_published": "20250125T233017",
+      "authors": [
+        "Claire Shefchik"
+      ],
+      "summary": "Microsoft has a new way to determine which employees it can't afford to lose and it's all about AI. An internal document viewed by Business Insider sheds light on how managers are working to keep top AI talent in the fold - and it involves some big questions and even bigger paychecks.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/25/Microsoft-Corp.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.25125,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.532941",
+          "ticker_sentiment_score": "0.258832",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.072435",
+          "ticker_sentiment_score": "0.042188",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.072435",
+          "ticker_sentiment_score": "0.284044",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Better Fintech Stock: SoFi Technologies vs. Nu Holdings",
+      "url": "https://www.fool.com/investing/2025/01/25/better-fintech-stock-sofi-technologies-vs-nu-holdi/",
+      "time_published": "20250125T232300",
+      "authors": [
+        "Dan Victor"
+      ],
+      "summary": "It's a matchup between two innovative and high-growth financial technology ( fintech ) giants. In one corner, SoFi Technologies ( NASDAQ: SOFI ) has emerged as a prominent U.S. financial services player enjoying strong demand for its online-based suite of solutions.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F804669%2Fsofi-technologies-versus-nu-holdings-bullish-outlook-2025.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999701"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.995015"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.408254,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOFI",
+          "relevance_score": "0.172919",
+          "ticker_sentiment_score": "0.308553",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NU",
+          "relevance_score": "0.337811",
+          "ticker_sentiment_score": "0.435251",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "If You'd Invested $1,000 in Plug Power Stock 3 Years Ago, Here's How Much You'd Have Today",
+      "url": "https://www.fool.com/investing/2025/01/25/if-youd-invested-1000-in-plug-power-stock-3-years/",
+      "time_published": "20250125T231700",
+      "authors": [
+        "Scott Levine"
+      ],
+      "summary": "Charging out of the gate, Plug Power ( NASDAQ: PLUG ) stock has soared nearly 15% to start 2025. It's undeniably a welcome sight, considering the S&P 500 ( SNPINDEX: ^GSPC ) has inched 2% higher during the same time, and the stock's performance was far less encouraging in 2024.While the hydrogen ...",
+      "banner_image": "https://media.ycharts.com/charts/12acdfbe52e7221f4630f1578e4e269b.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.503496"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.178838,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PLUG",
+          "relevance_score": "0.390904",
+          "ticker_sentiment_score": "0.141312",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It",
+      "url": "https://www.fool.com/investing/2025/01/25/if-i-could-only-buy-and-hold-a-single-stock-this-w/",
+      "time_published": "20250125T231400",
+      "authors": [
+        "Reuben Gregg Brewer"
+      ],
+      "summary": "I initially bought Hershey ( NYSE: HSY ) in late 2023 and over roughly a year built it up to what I consider a full position. The story behind the stock hasn't changed at all since I bought it, and if I didn't already have a full position, it would still be on my top-buy list.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F804673%2F23_10_31-a-post-it-note-with-the-word-dividends-on-it-next-to-a-roll-of-cash-_mf-dload.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.459462"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.187512,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HSY",
+          "relevance_score": "0.702434",
+          "ticker_sentiment_score": "0.265982",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "My Top Quantum Computing Stock to Buy Right Now",
+      "url": "https://www.fool.com/investing/2025/01/25/my-top-quantum-computing-stock-to-buy-right-now/",
+      "time_published": "20250125T231200",
+      "authors": [
+        "Adria Cimino"
+      ],
+      "summary": "The stock market roared higher last year, and some of the biggest gainers operate in one specific field: artificial intelligence ( AI ) . The technology promises to revolutionize many industries -- from healthcare to automobiles -- with innovations such as AI-powered medical devices and ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F804971%2Fgettyimages-1648617109-1200x692-a5ea154.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.995077"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.891286"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.288959,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RGTI",
+          "relevance_score": "0.050465",
+          "ticker_sentiment_score": "0.262495",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.295867",
+          "ticker_sentiment_score": "0.332007",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.050465",
+          "ticker_sentiment_score": "0.069908",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "1 Wall Street Analyst Thinks Netflix Is Going to $1,100. Is It a Buy?",
+      "url": "https://www.fool.com/investing/2025/01/25/1-wall-street-analyst-thinks-netflix-is-going-to-1/",
+      "time_published": "20250125T231000",
+      "authors": [
+        "Jeremy Bowman"
+      ],
+      "summary": "Netflix ( NASDAQ: NFLX ) dazzled investors with its Q4 2024 earnings report on Jan. 21. The streaming leader blew past expectations for subscriber growth, posting record additions of 18.9 million, well above the analyst consensus of 9.8 million.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805041%2Fwatching-tv-streaming-relaxing-entertainment.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.614606"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.245777,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.691995",
+          "ticker_sentiment_score": "0.324537",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}
